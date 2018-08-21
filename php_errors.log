@@ -1,0 +1,22 @@
+[01-Dec-2017 07:00:30 UTC] PHP Warning:  include(functions/connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/functions/registerNewUser.php on line 21
+[01-Dec-2017 07:00:30 UTC] PHP Stack trace:
+[01-Dec-2017 07:00:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/functions/registerNewUser.php:0
+[01-Dec-2017 07:00:30 UTC] PHP Warning:  include(): Failed opening 'functions/connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/functions/registerNewUser.php on line 21
+[01-Dec-2017 07:00:30 UTC] PHP Stack trace:
+[01-Dec-2017 07:00:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/functions/registerNewUser.php:0
+[01-Dec-2017 07:00:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/functions/registerNewUser.php on line 25
+[01-Dec-2017 07:00:30 UTC] PHP Stack trace:
+[01-Dec-2017 07:00:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/functions/registerNewUser.php:0
+[01-Dec-2017 07:00:30 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/functions/registerNewUser.php:25
+[01-Dec-2017 07:00:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/functions/registerNewUser.php on line 27
+[01-Dec-2017 07:00:30 UTC] PHP Stack trace:
+[01-Dec-2017 07:00:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/functions/registerNewUser.php:0
+[01-Dec-2017 07:00:30 UTC] PHP   2. mysqli_num_rows() /home/ubuntu/workspace/functions/registerNewUser.php:27
+[01-Dec-2017 07:00:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/functions/registerNewUser.php on line 42
+[01-Dec-2017 07:00:30 UTC] PHP Stack trace:
+[01-Dec-2017 07:00:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/functions/registerNewUser.php:0
+[01-Dec-2017 07:00:30 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/functions/registerNewUser.php:42
+[01-Dec-2017 07:00:30 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/functions/registerNewUser.php on line 48
+[01-Dec-2017 07:00:30 UTC] PHP Stack trace:
+[01-Dec-2017 07:00:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/functions/registerNewUser.php:0
+[01-Dec-2017 07:00:30 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/functions/registerNewUser.php:48

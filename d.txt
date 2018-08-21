@@ -1,0 +1,16 @@
+
+
+////////////////I NEED FIRST TO CHANGE THE DATABASE USERNAME 
+I CAN ADD THE CATEGORY STUFF ( 2 IN 1 ) 
+
+1 ) log in can be in the main page 
+2 ) i delete jumbotrn and put the add item in the main page 
+3 ) i put the notification as a boot strab alert
+4 ) i can put the search by price or by name or by date  ( date should be added to the data base ) 
+5 ) i can let users enter more than one picture 
+6 ) change the whole theme if i found one or just change backgrounds and the css colors 
+7 ) i sould remove the stars and rating from the items 
+8 ) i can add the city and to contact 
+9 ) change the signin / signup pages so they don't look alike and don't look like this > but don't have to use a new one from snippit 
+10 ) i might add some animations from outer library to get a better knowledge 
+11 ) i might try to make the notification automatic without reloading ( real time )  also to prepare and get farther knowledge

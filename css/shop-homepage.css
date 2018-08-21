@@ -1,0 +1,127 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+*{
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+li {
+      list-style-type: none;
+}
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+
+#imaginary_container{
+    margin-top:20%; /* Don't copy this */
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+.usernamenav {
+  color: antiquewhite;
+  font-weight:bold;
+  margin-right: 13px;
+}
+
+
+.jumbotron {
+    opacity: 0.8;
+    color: #fff;
+    /*background: rgba(252, 252, 252,0.2);*/
+    margin-bottom: 0px;
+    background-image: url("/imgs/img5.jpg") ; 
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+/*for the buttons*/
+.ds-btn li{ list-style:none; float:left; padding:10px; }
+.ds-btn li a span{padding-left:15px;padding-right:5px;width:100%;display:inline-block; text-align:left;}
+.ds-btn li a span small{width:100%; display:inline-block; text-align:left;}
+
+
+
+.btn-group {
+    display: table;
+  margin: auto;
+}
+
+/*notification stuff*/
+
+
+.notification-div { 
+  width:320px;
+  color: white;
+  /*padding-left:10px;*/
+}
+
+a.notification-point{
+  color:white;
+  text-decoration: none ;
+  right: 30px;
+  position: relative;
+}
+
+li.notification-point-li {
+    width:330px;
+}
+
+.notification-point:hover {
+  color:#b7cbe0;
+  text-decoration: none ;
+}
+
+.notification-point:before {
+    content: "•"; 
+    padding-right: 8px;
+    color: red;
+}
+
+.profile-picture {
+  height:100px;
+}
+
+.menu-picture {
+  height:40px;
+}
+
+.file {
+  visibility: hidden;
+  position: absolute;
+}
+
+.sell-item-button {
+    padding-left: 34px;
+}
+
+
+/*.error {*/
+  
+/*  position:absolute;*/
+/*  top:400px;*/
+/*}*/
